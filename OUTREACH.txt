@@ -1,0 +1,11 @@
+Subject: built a coordination check
+
+Hi,
+
+Cogram’s shared project record got me thinking about mismatches between issued details and site observations. I built a coordination review prototype that compares values, excludes superseded revisions, and prepares clarifications with both source excerpts.
+
+https://github.com/elprofessor-15/cogram-coordination-review
+
+I’m Abhineeth, a fourth-year IIT BHU undergraduate seeking a paid remote internship. I’d love to help build Cogram’s project tools. Is this a workflow your team is exploring?
+
+Resume: https://drive.google.com/file/d/1PWgVhgMRo2GYhCZ7ezYSrYAAMGfb489Q/view?usp=sharing

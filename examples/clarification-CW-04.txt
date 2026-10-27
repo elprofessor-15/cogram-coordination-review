@@ -1,0 +1,18 @@
+Subject: Clarification requested | CW-04 | Bracket spacing
+
+Project: Northbank Exchange (24-018)
+Location: Level 02 · Grid C / 4
+To: Maya Chen
+
+Please confirm the coordinated requirement for east elevation brackets.
+
+Issued record: A-421, revision C03, 2026-10-20, Detail 04 · bracket note. Recorded value: 450 mm.
+“CW-04: facade support brackets at 450 mm centres. This revision supersedes P02 for the east elevation.”
+
+Field report: FR-018, revision 01, 2026-10-26, Observation 03 · Grid C/4. Recorded value: 600 mm.
+“CW-04, Level 02: measured bracket centres at 600 mm along east elevation Grid C/4. Confirm against latest issued detail before enclosure.”
+
+These records contain different or non-comparable values. Please confirm whether a revised instruction is required and identify the applicable issued record before the next coordination step.
+
+Prepared for human review. This draft is not an instruction, approval, or formal RFI.
+Demo project: fictional records, no live Cogram or Procore connection.
